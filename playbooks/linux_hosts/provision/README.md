@@ -1,4 +1,4 @@
-Check to make sure your host machine is has RAID
+Check to make sure your host machine has RAID
 
 Install Ubuntu 18.04 LTS server from a DVD.
 
